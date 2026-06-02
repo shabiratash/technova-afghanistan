@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # TechNova Afghanistan
 
 TechNova Afghanistan is a production-ready full-stack Web Engineering course project for technology services, learning, jobs and real-time chat.
@@ -83,4 +82,4 @@ See [docs/deployment.md](docs/deployment.md) for Vercel, Render, Railway, MongoD
 =======
 # technova-afghanistan
 Modern full-stack web platform for technology services, jobs, learning, and real-time collaboration.
->>>>>>> bbd5f28cdfaae62ec4b3d6e49650473b0039783f
+
