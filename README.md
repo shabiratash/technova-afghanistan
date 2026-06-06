@@ -83,3 +83,5 @@ See [docs/deployment.md](docs/deployment.md) for Vercel, Render, Railway, MongoD
 # technova-afghanistan
 Modern full-stack web platform for technology services, jobs, learning, and real-time collaboration.
 
+Design,Develop and preparet by Shabir Ahmad Atash, Kaihan Muhammadi, Shabir Ahmad Nooryar 
+
